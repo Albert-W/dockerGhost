@@ -1,7 +1,7 @@
 # dockerGhost
 It a web services which is build up by docker-compose.
 
-代码是慕课网“Docker入门” 课程的 实战代码，通过检验，效果如下
+效果如下
 ![image](ghost.png)
 
 后台管理页:
@@ -25,4 +25,5 @@ http://localhost:80/ghost
 
 
 ###
+代码是慕课网“Docker入门” 课程的 实战代码，通过检验。
 课程地址：https://www.imooc.com/learn/867
