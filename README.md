@@ -1,5 +1,7 @@
 # dockerGhost
-It a web services which is build up by docker-compose.
+It's a web service which is built up by docker-compose.
+
+This project consists of three docker images: "ghost", "nginx", "mysql:5.7.15".
 
 效果如下
 ![image](ghost.png)
